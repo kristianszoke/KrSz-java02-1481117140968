@@ -8,3 +8,4 @@ applications:
   disk_quota: 1024M
   services:
   - KrSz-java02-cloudantNoSQLDB
+  - AlchemyAPI-jp
